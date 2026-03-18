@@ -1,4 +1,6 @@
-I’m Caio, i'm a student of Computer Science at the Federal University of Santa Catarina (UFSC);
+# Hi, I’m Caio :)
+
+I'm a student of Computer Science at the Federal University of Santa Catarina (UFSC);
 
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -7,6 +9,7 @@ I’m Caio, i'm a student of Computer Science at the Federal University of Santa
 
 
 🔬 Undergraduate Research Fellow at the L3C (Connectionism and Cognitive Science Lab)
+
 ⚛️ Currently exploring Quantum Computing
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Provavelmente-o-Caio&show_icons=true&bg_color=00000000)

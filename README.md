@@ -11,5 +11,3 @@ I'm a student of Computer Science at the Federal University of Santa Catarina (U
 🔬 Undergraduate Research Fellow at the L3C (Connectionism and Cognitive Science Lab)
 
 ⚛️ Currently exploring Quantum Computing
-
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Provavelmente-o-Caio)

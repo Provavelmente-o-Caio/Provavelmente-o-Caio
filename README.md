@@ -12,4 +12,4 @@ I'm a student of Computer Science at the Federal University of Santa Catarina (U
 
 ⚛️ Currently exploring Quantum Computing
 
-[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Provavelmente-o-Caio)](https://github.com/anuraghazra/github-readme-stats)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Provavelmente-o-Caio)
